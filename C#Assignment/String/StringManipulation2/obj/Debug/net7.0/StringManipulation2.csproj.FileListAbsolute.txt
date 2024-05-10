@@ -1,0 +1,15 @@
+C:\Users\SivakumarVairamuthu\OneDrive - Syncfusion\Desktop\C#Assignment\String\StringManipulation2\bin\Debug\net7.0\StringManipulation2.exe
+C:\Users\SivakumarVairamuthu\OneDrive - Syncfusion\Desktop\C#Assignment\String\StringManipulation2\bin\Debug\net7.0\StringManipulation2.deps.json
+C:\Users\SivakumarVairamuthu\OneDrive - Syncfusion\Desktop\C#Assignment\String\StringManipulation2\bin\Debug\net7.0\StringManipulation2.runtimeconfig.json
+C:\Users\SivakumarVairamuthu\OneDrive - Syncfusion\Desktop\C#Assignment\String\StringManipulation2\bin\Debug\net7.0\StringManipulation2.dll
+C:\Users\SivakumarVairamuthu\OneDrive - Syncfusion\Desktop\C#Assignment\String\StringManipulation2\bin\Debug\net7.0\StringManipulation2.pdb
+C:\Users\SivakumarVairamuthu\OneDrive - Syncfusion\Desktop\C#Assignment\String\StringManipulation2\obj\Debug\net7.0\StringManipulation2.csproj.AssemblyReference.cache
+C:\Users\SivakumarVairamuthu\OneDrive - Syncfusion\Desktop\C#Assignment\String\StringManipulation2\obj\Debug\net7.0\StringManipulation2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SivakumarVairamuthu\OneDrive - Syncfusion\Desktop\C#Assignment\String\StringManipulation2\obj\Debug\net7.0\StringManipulation2.AssemblyInfoInputs.cache
+C:\Users\SivakumarVairamuthu\OneDrive - Syncfusion\Desktop\C#Assignment\String\StringManipulation2\obj\Debug\net7.0\StringManipulation2.AssemblyInfo.cs
+C:\Users\SivakumarVairamuthu\OneDrive - Syncfusion\Desktop\C#Assignment\String\StringManipulation2\obj\Debug\net7.0\StringManipulation2.csproj.CoreCompileInputs.cache
+C:\Users\SivakumarVairamuthu\OneDrive - Syncfusion\Desktop\C#Assignment\String\StringManipulation2\obj\Debug\net7.0\StringManipulation2.dll
+C:\Users\SivakumarVairamuthu\OneDrive - Syncfusion\Desktop\C#Assignment\String\StringManipulation2\obj\Debug\net7.0\refint\StringManipulation2.dll
+C:\Users\SivakumarVairamuthu\OneDrive - Syncfusion\Desktop\C#Assignment\String\StringManipulation2\obj\Debug\net7.0\StringManipulation2.pdb
+C:\Users\SivakumarVairamuthu\OneDrive - Syncfusion\Desktop\C#Assignment\String\StringManipulation2\obj\Debug\net7.0\StringManipulation2.genruntimeconfig.cache
+C:\Users\SivakumarVairamuthu\OneDrive - Syncfusion\Desktop\C#Assignment\String\StringManipulation2\obj\Debug\net7.0\ref\StringManipulation2.dll

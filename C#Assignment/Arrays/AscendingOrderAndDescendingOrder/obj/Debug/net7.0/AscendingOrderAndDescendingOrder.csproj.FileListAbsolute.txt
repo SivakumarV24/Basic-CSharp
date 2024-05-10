@@ -1,0 +1,15 @@
+C:\Users\SivakumarVairamuthu\OneDrive - Syncfusion\Desktop\C#Assignment\Arrays\AscendingOrderAndDescendingOrder\bin\Debug\net7.0\AscendingOrderAndDescendingOrder.exe
+C:\Users\SivakumarVairamuthu\OneDrive - Syncfusion\Desktop\C#Assignment\Arrays\AscendingOrderAndDescendingOrder\bin\Debug\net7.0\AscendingOrderAndDescendingOrder.deps.json
+C:\Users\SivakumarVairamuthu\OneDrive - Syncfusion\Desktop\C#Assignment\Arrays\AscendingOrderAndDescendingOrder\bin\Debug\net7.0\AscendingOrderAndDescendingOrder.runtimeconfig.json
+C:\Users\SivakumarVairamuthu\OneDrive - Syncfusion\Desktop\C#Assignment\Arrays\AscendingOrderAndDescendingOrder\bin\Debug\net7.0\AscendingOrderAndDescendingOrder.dll
+C:\Users\SivakumarVairamuthu\OneDrive - Syncfusion\Desktop\C#Assignment\Arrays\AscendingOrderAndDescendingOrder\bin\Debug\net7.0\AscendingOrderAndDescendingOrder.pdb
+C:\Users\SivakumarVairamuthu\OneDrive - Syncfusion\Desktop\C#Assignment\Arrays\AscendingOrderAndDescendingOrder\obj\Debug\net7.0\AscendingOrderAndDescendingOrder.csproj.AssemblyReference.cache
+C:\Users\SivakumarVairamuthu\OneDrive - Syncfusion\Desktop\C#Assignment\Arrays\AscendingOrderAndDescendingOrder\obj\Debug\net7.0\AscendingOrderAndDescendingOrder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SivakumarVairamuthu\OneDrive - Syncfusion\Desktop\C#Assignment\Arrays\AscendingOrderAndDescendingOrder\obj\Debug\net7.0\AscendingOrderAndDescendingOrder.AssemblyInfoInputs.cache
+C:\Users\SivakumarVairamuthu\OneDrive - Syncfusion\Desktop\C#Assignment\Arrays\AscendingOrderAndDescendingOrder\obj\Debug\net7.0\AscendingOrderAndDescendingOrder.AssemblyInfo.cs
+C:\Users\SivakumarVairamuthu\OneDrive - Syncfusion\Desktop\C#Assignment\Arrays\AscendingOrderAndDescendingOrder\obj\Debug\net7.0\AscendingOrderAndDescendingOrder.csproj.CoreCompileInputs.cache
+C:\Users\SivakumarVairamuthu\OneDrive - Syncfusion\Desktop\C#Assignment\Arrays\AscendingOrderAndDescendingOrder\obj\Debug\net7.0\AscendingOrderAndDescendingOrder.dll
+C:\Users\SivakumarVairamuthu\OneDrive - Syncfusion\Desktop\C#Assignment\Arrays\AscendingOrderAndDescendingOrder\obj\Debug\net7.0\refint\AscendingOrderAndDescendingOrder.dll
+C:\Users\SivakumarVairamuthu\OneDrive - Syncfusion\Desktop\C#Assignment\Arrays\AscendingOrderAndDescendingOrder\obj\Debug\net7.0\AscendingOrderAndDescendingOrder.pdb
+C:\Users\SivakumarVairamuthu\OneDrive - Syncfusion\Desktop\C#Assignment\Arrays\AscendingOrderAndDescendingOrder\obj\Debug\net7.0\AscendingOrderAndDescendingOrder.genruntimeconfig.cache
+C:\Users\SivakumarVairamuthu\OneDrive - Syncfusion\Desktop\C#Assignment\Arrays\AscendingOrderAndDescendingOrder\obj\Debug\net7.0\ref\AscendingOrderAndDescendingOrder.dll
